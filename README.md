@@ -1,3 +1,3 @@
 # hello-world
 2nd repository
-Wrst programmer in the world
+Worst programmer in the world
